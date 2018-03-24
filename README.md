@@ -1,2 +1,2 @@
 # MyGithubRep
-my first repository in github
+my first repository on github
